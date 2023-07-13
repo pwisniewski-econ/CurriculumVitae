@@ -4,4 +4,6 @@
 # Except...
 !.gitignore
 !CV_English.tex
+!CV_English_NoPic.tex
+!CV_French.tex
 !picture.jpg
