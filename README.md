@@ -18,4 +18,4 @@ While this is a personal repository, I appreciate any suggestions or corrections
 
 ## Compiled CV without picture
 
-![image info](./content/CV_English_NoPic.jpg)
+![image info](./content/cv_en_nopic.png)
